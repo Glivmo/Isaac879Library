@@ -1,2 +1,2 @@
-# Iibrary
-My library for custom Arduino functions I commonly use.
+# Isaac879Library
+Custom library from Isaac879 for custom Arduino functions. Used in https://github.com/isaac879/Pan-Tilt-Mount
